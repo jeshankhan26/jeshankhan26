@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/fjeshan2608](https://github.com/jeshankhan26)
 
-- 💬 Ask me about **Laravel,SMM, Problem Solving**
+- 💬 Ask me about **Laravel,SMM, Problem Solving,Full Stack Development**
 
 - 📫 How to reach me **jeshank1123@gmail.com**
 
