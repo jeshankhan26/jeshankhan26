@@ -4,15 +4,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Laravel+Developer;Learning+Cyber+Security;Building+Secure+Full+Stack+Apps" alt="Typing SVG" />
 </p>
-- 🔭 I'm currently working on **[Your Current Project Name](https://github.com/jeshankhan26/your-repo)**
+- 🔭 I'm currently working on **https://github.com/jeshankhan26?tab=repositories**
 - 🌱 I'm currently learning **Cyber Security, Ethical Hacking & Network Security**
 - 💻 I have hands-on experience in **MongoDB, Express.js, React.js, Node.js (MERN Stack)**
 - 🧩 I was previously working as a **Laravel Developer**, building backend systems and APIs
 - 👯 I'm looking to collaborate on **Full Stack & Security-focused Projects**
 - 🤝 I'm looking for help with **Cyber Security Certifications & CTF Practice**
-- 👨‍💻 All of my projects are available at **[[https://github.com/jeshankhan26](https://github.com/jeshankhan26)](https://github.com/jeshankhan26?tab=repositories)**
+- 👨‍💻 All of my projects are available at **https://github.com/jeshankhan26?tab=repositories**
 - 💬 Ask me about **MERN Stack, Laravel, JavaScript, PHP, Web Security, Full Stack Development**
-- 📫 How to reach me **your-email@example.com**
+- 📫 How to reach me **khan.jeshan2608@gmail.com**
 - ⚡ Fun fact: **I love turning bugs into features and vulnerabilities into fixes 🔐**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
