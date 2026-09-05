@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Md.Jeshan Khan</h1>
 <h3 align="center">A passionate MERN Stack Developer | Ex-Laravel Developer | Aspiring Cyber Security Professional</h3>
  
 <p align="center">
@@ -10,7 +10,7 @@
 - 🧩 I was previously working as a **Laravel Developer**, building backend systems and APIs
 - 👯 I'm looking to collaborate on **Full Stack & Security-focused Projects**
 - 🤝 I'm looking for help with **Cyber Security Certifications & CTF Practice**
-- 👨‍💻 All of my projects are available at **[https://github.com/jeshankhan26](https://github.com/jeshankhan26)**
+- 👨‍💻 All of my projects are available at **[[https://github.com/jeshankhan26](https://github.com/jeshankhan26)](https://github.com/jeshankhan26?tab=repositories)**
 - 💬 Ask me about **MERN Stack, Laravel, JavaScript, PHP, Web Security, Full Stack Development**
 - 📫 How to reach me **your-email@example.com**
 - ⚡ Fun fact: **I love turning bugs into features and vulnerabilities into fixes 🔐**
