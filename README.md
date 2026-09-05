@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm [Your Name]</h1> <h3 align="center">A passionate MERN Stack Developer | Ex-Laravel Developer | Aspiring Cyber Security Professional</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Laravel+Developer;Learning+Cyber+Security;Building+Secure+Full+Stack+Apps" alt="Typing SVG" /> </p>
+<h1 align="center">Hi 👋, I'm [Your Name]</h1> <h3 align="center">A passionate MERN Stack Developer | Ex-Laravel Developer | Aspiring Cyber Security Professional</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Laravel+Developer;Learning+Cyber+Security;Building+Secure+Full+Stack+Apps" alt="Typing SVG" /> </p>
 🔭 I'm currently working on Your Current Project Name
 🌱 I'm currently learning Cyber Security, Ethical Hacking & Network Security
 💻 I have hands-on experience in MongoDB, Express.js, React.js, Node.js (MERN Stack)
