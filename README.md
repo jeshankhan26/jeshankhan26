@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" width="100%" alt="Md. Jeshan Khan — MERN Stack Developer, ex-Laravel developer and aspiring cyber security professional from Sylhet, Bangladesh">
+  <img src="https://ibb.co.com/RZ1sRmC" width="100%" alt="Md. Jeshan Khan — MERN Stack Developer, ex-Laravel developer and aspiring cyber security professional from Sylhet, Bangladesh">
 </picture>
 
 <br>
